@@ -14,12 +14,12 @@
     ## getSupportActionBar().setDisplayShowHomeEnabled(true);
 # 8. override to onOptions itemSelected item.
 # 9. check to android.R.id.home - default back button call.
-#10. Declare to main Fragment type preFragment, currentFragment.
+# 10. Declare to main Fragment type preFragment, currentFragment.
     with declare to bollean flag.
-#11. Create a backPressed method(); 
+# 11. Create a backPressed method(); 
     want to 2 parameter are Fragment type,
     prevFragment, currentFragment.
-#1 2. Check to bollean value within fragment transiction.
+# 12. Check to bollean value within fragment transiction.
 # 13. then your logic, preFragment to your Fragment.
     and currentFragmet to other Fragment.
 # 14. then Fragment transiction start..
